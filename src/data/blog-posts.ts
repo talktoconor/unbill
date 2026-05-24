@@ -49,7 +49,7 @@ Before making any payment, get the agreed-upon amount and terms in writing. Conf
 
 ## When to Get Professional Help
 
-If your bill is over $5,000, if you are dealing with multiple providers, or if you are not getting anywhere on your own, professional help can make a significant difference. BillFight generates customized negotiation letters, itemized bill requests, and financial hardship applications that use the same strategies professional medical billing advocates employ -- at a fraction of the cost of hiring one.
+If your bill is over $5,000, if you are dealing with multiple providers, or if you are not getting anywhere on your own, professional help can make a significant difference. BillSlash generates customized negotiation letters, itemized bill requests, and financial hardship applications that use the same strategies professional medical billing advocates employ -- at a fraction of the cost of hiring one.
 
 ## Key Takeaways
 
@@ -86,9 +86,9 @@ Certain charges are disproportionately likely to contain errors. Operating room 
 
 Your itemized bill is the foundation of any negotiation. Once you identify errors or inflated charges, you have concrete evidence to present to the billing department. Point to specific line items and compare them against Medicare rates or FAIR Health fair prices. This data-driven approach is far more effective than simply asking for a general discount.
 
-## Save Time with BillFight
+## Save Time with BillSlash
 
-Requesting an itemized bill and analyzing it takes time and knowledge. BillFight generates a professional, legally grounded itemized bill request letter that cites your rights, sets a clear deadline, and positions you for the negotiation that follows. It takes five minutes instead of five hours of research.
+Requesting an itemized bill and analyzing it takes time and knowledge. BillSlash generates a professional, legally grounded itemized bill request letter that cites your rights, sets a clear deadline, and positions you for the negotiation that follows. It takes five minutes instead of five hours of research.
 
 ## Take Action Now
 
@@ -129,9 +129,9 @@ Several states have enacted additional charity care protections. Washington requ
 
 The IRS requires nonprofit hospitals to establish a written financial assistance policy, widely publicize the policy in the community, conduct a community health needs assessment every three years, limit charges for financial-assistance-eligible patients to amounts generally billed to insured patients, and refrain from extraordinary collection actions before making reasonable efforts to determine eligibility.
 
-## How BillFight Helps with Charity Care
+## How BillSlash Helps with Charity Care
 
-BillFight generates a customized financial hardship application letter that references your hospital's specific charity care obligations, cites relevant IRS 501(r) requirements, and presents your financial situation in the most compelling way. The letter is professionally formatted and ready to submit alongside the hospital's financial assistance application.
+BillSlash generates a customized financial hardship application letter that references your hospital's specific charity care obligations, cites relevant IRS 501(r) requirements, and presents your financial situation in the most compelling way. The letter is professionally formatted and ready to submit alongside the hospital's financial assistance application.
 
 ## Do Not Leave Money on the Table
 
@@ -176,9 +176,9 @@ Surgical patients should pay particular attention to operating room time and rec
 
 When you find an error, document it thoroughly. Write down the specific line item, the CPT code, the amount charged, and why you believe it is incorrect. Contact the billing department in writing, referencing your account number and the specific charges in question. Request a formal review and correction. If the provider does not respond, file a complaint with your state insurance commissioner or attorney general.
 
-## Let BillFight Help You Find Errors
+## Let BillSlash Help You Find Errors
 
-Reviewing a complex medical bill takes expertise and persistence. BillFight helps you take the first step by generating a professional itemized bill request that ensures you receive the detailed information you need to identify errors. Armed with a proper itemized statement, you can compare each charge against fair prices and spot the discrepancies.`,
+Reviewing a complex medical bill takes expertise and persistence. BillSlash helps you take the first step by generating a professional itemized bill request that ensures you receive the detailed information you need to identify errors. Armed with a proper itemized statement, you can compare each charge against fair prices and spot the discrepancies.`,
   },
   {
     slug: "negotiate-medical-bills-after-insurance",
@@ -219,9 +219,9 @@ If you believe the provider is charging you more than your EOB indicates you owe
 
 Phone negotiations are useful for initial discussions, but always follow up in writing. A formal letter creates a paper trail, demonstrates seriousness, and provides documentation in case the matter escalates. Include your account number, the specific charges you are disputing, your proposed resolution, and a deadline for response.
 
-## BillFight Makes It Easy
+## BillSlash Makes It Easy
 
-BillFight generates professional negotiation letters tailored to your specific situation, whether you need to dispute a charge, request a reduction, or propose a payment plan. Each letter cites relevant Medicare rates, consumer price data, and legal protections to give your negotiation the strongest possible foundation.`,
+BillSlash generates professional negotiation letters tailored to your specific situation, whether you need to dispute a charge, request a reduction, or propose a payment plan. Each letter cites relevant Medicare rates, consumer price data, and legal protections to give your negotiation the strongest possible foundation.`,
   },
   {
     slug: "cant-afford-medical-bill-options",
@@ -270,9 +270,9 @@ The No Surprises Act protects patients from surprise bills for emergency service
 
 Do not put a large medical bill on a high-interest credit card. Do not ignore the bill -- this leads to collections and credit damage. Do not agree to a payment plan you cannot afford. Do not assume the bill is correct without reviewing it. Do not pay without asking about discounts and financial assistance.
 
-## Let BillFight Fight for You
+## Let BillSlash Fight for You
 
-BillFight creates all the documents you need to fight your medical bill: itemized bill requests, negotiation letters citing Medicare rates, financial hardship applications, and payment plan proposals. Each document is customized to your specific situation and ready to send. Stop stressing and start fighting back.`,
+BillSlash creates all the documents you need to fight your medical bill: itemized bill requests, negotiation letters citing Medicare rates, financial hardship applications, and payment plan proposals. Each document is customized to your specific situation and ready to send. Stop stressing and start fighting back.`,
   },
   {
     slug: "no-surprises-act-guide",
@@ -309,9 +309,9 @@ The No Surprises Act does not cover ground ambulance services (only air ambulanc
 
 Many states have their own surprise billing protections that may be stronger than the federal law. States like New York, California, Texas, and Florida had surprise billing protections before the federal act. In many cases, the stronger law (state or federal) applies. Check your state's insurance department for specific protections.
 
-## Combining the No Surprises Act with BillFight
+## Combining the No Surprises Act with BillSlash
 
-While the No Surprises Act provides a floor of protection, negotiation and advocacy can further reduce your bills. BillFight letters reference the No Surprises Act where applicable and incorporate other strategies like Medicare rate comparisons and charity care applications to achieve the maximum possible reduction.`,
+While the No Surprises Act provides a floor of protection, negotiation and advocacy can further reduce your bills. BillSlash letters reference the No Surprises Act where applicable and incorporate other strategies like Medicare rate comparisons and charity care applications to achieve the maximum possible reduction.`,
   },
   {
     slug: "stop-medical-bills-going-to-collections",
@@ -356,9 +356,9 @@ Recent policy changes have strengthened patient protections around medical colle
 
 Under IRS 501(r), nonprofit hospitals must make reasonable efforts to determine whether a patient qualifies for financial assistance before initiating extraordinary collection actions (such as reporting to credit agencies, filing lawsuits, or placing liens). If a nonprofit hospital sent your bill to collections without offering financial assistance, they may be in violation of federal law.
 
-## BillFight Helps You Act Before Collections
+## BillSlash Helps You Act Before Collections
 
-The best time to fight a medical bill is before it goes to collections. BillFight generates the letters and applications you need to negotiate, apply for financial assistance, or set up a payment plan -- all of which stop the collections clock. Acting quickly with the right documents is the most effective strategy.`,
+The best time to fight a medical bill is before it goes to collections. BillSlash generates the letters and applications you need to negotiate, apply for financial assistance, or set up a payment plan -- all of which stop the collections clock. Acting quickly with the right documents is the most effective strategy.`,
   },
   {
     slug: "medicare-rates-negotiate-medical-bills",
@@ -395,9 +395,9 @@ Medicare rates vary by geographic area based on local labor costs, practice expe
 
 Medicare rate comparison is most powerful when combined with other negotiation strategies. Request an itemized bill first, then look up the Medicare rate for each significant charge. Identify any billing errors. Then present a comprehensive negotiation that addresses both errors and overcharges. Offer a lump-sum payment at a fair price based on your Medicare rate analysis.
 
-## BillFight Does the Research for You
+## BillSlash Does the Research for You
 
-Looking up Medicare rates for every CPT code on a complex bill is time-consuming. BillFight negotiation letters automatically reference Medicare reimbursement rates and fair price benchmarks, building a data-driven case for reducing your bill. Each letter is customized with your specific charges and the relevant fair price comparisons.`,
+Looking up Medicare rates for every CPT code on a complex bill is time-consuming. BillSlash negotiation letters automatically reference Medicare reimbursement rates and fair price benchmarks, building a data-driven case for reducing your bill. Each letter is customized with your specific charges and the relevant fair price comparisons.`,
   },
   {
     slug: "medical-debt-credit-score-changes",
@@ -434,8 +434,8 @@ Despite the improvements, some medical debt can still impact your credit. Unpaid
 
 To protect your credit while dealing with medical bills, negotiate or set up a payment plan before the bill goes to collections. If a bill does go to collections, try to resolve it within the one-year grace period before it can appear on your credit report. Never put medical bills on a credit card, as this converts them to consumer debt that loses the special protections. Always get written confirmation when a bill is paid or settled.
 
-## Proactive Steps with BillFight
+## Proactive Steps with BillSlash
 
-The best way to prevent medical debt from affecting your credit is to resolve bills before they reach collections. BillFight provides the negotiation letters, financial hardship applications, and payment plan proposals you need to resolve medical bills quickly and effectively. Taking action early protects both your wallet and your credit score.`,
+The best way to prevent medical debt from affecting your credit is to resolve bills before they reach collections. BillSlash provides the negotiation letters, financial hardship applications, and payment plan proposals you need to resolve medical bills quickly and effectively. Taking action early protects both your wallet and your credit score.`,
   },
 ]

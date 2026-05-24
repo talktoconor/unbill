@@ -62,7 +62,7 @@ export function Footer() {
             <Link href="/" className="inline-flex items-center gap-2">
               <Shield className="h-7 w-7 text-[#0d9488]" />
               <span className="text-xl font-bold">
-                Bill<span className="text-[#0d9488]">Fight</span>
+                Bill<span className="text-[#0d9488]">Slash</span>
               </span>
             </Link>
             <p className="mt-3 max-w-xs text-sm leading-relaxed text-slate-400">
@@ -83,12 +83,12 @@ export function Footer() {
         {/* Disclaimer */}
         <div className="mt-12 border-t border-slate-800 pt-8">
           <p className="text-xs leading-relaxed text-slate-500">
-            BillFight is not a law firm, medical billing company, or financial
+            BillSlash is not a law firm, medical billing company, or financial
             advisor. We generate negotiation and request documents — we do not
             guarantee bill reduction.
           </p>
           <p className="mt-4 text-xs text-slate-600">
-            &copy; {new Date().getFullYear()} BillFight. All rights reserved.
+            &copy; {new Date().getFullYear()} BillSlash. All rights reserved.
           </p>
         </div>
       </div>
